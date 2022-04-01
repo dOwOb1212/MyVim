@@ -1,10 +1,4 @@
 # MyVim
-
-
 ## My Vim setup
-
-
-## My OS
-
-
+### OS
 ### Ubuntu
