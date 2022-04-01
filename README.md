@@ -1,2 +1,2 @@
 # MyVim
-How I setup my vim
+## How I setup my vim
